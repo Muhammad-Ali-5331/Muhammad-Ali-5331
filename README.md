@@ -30,7 +30,7 @@ class MuhammadAli:
         self.username    = "Muhammad-Ali-5331"
         self.university  = "PUCIT — BSCS '28 (4th Semester)"
         self.location    = "Lahore, Punjab, Pakistan 🇵🇰"
-        self.email       = "bcsf24a022@pucit.edu.pk"
+        self.email       = "malitariq5324@gmail.com"
 
         self.languages   = ["Python", "C++", "Dart", "JavaScript", "HTML/CSS"]
         self.frameworks  = ["Flask", "Flutter", "Tkinter", "Firebase"]
@@ -47,7 +47,7 @@ class MuhammadAli:
         ]
 
     def fun_fact(self):
-        return "I scored ~90% in both Matric & Intermediate — same energy in code 💪"
+        return "I code, eat , sleep and repeat.... "
 
 me = MuhammadAli()
 ```
