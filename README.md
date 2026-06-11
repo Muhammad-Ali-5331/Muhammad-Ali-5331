@@ -60,8 +60,8 @@ me = MuhammadAli()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-057438334/)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://codolio.com/profile/Muhammad_Ali/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bcsf24a022@pucit.edu.pk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Muhammad_Ali_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malitariq5324@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dead_x_killer_007/)
 
 </div>
@@ -119,7 +119,7 @@ me = MuhammadAli()
 
 </div>
 
-> 🔗 **[View All 33+ Repositories →](https://github.com/Muhammad-Ali-5331?tab=repositories)**
+> 🔗 **[View All Repositories →](https://github.com/Muhammad-Ali-5331?tab=repositories)**
 
 ---
 
@@ -173,6 +173,7 @@ me = MuhammadAli()
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solving_Hard-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![ICPC](https://img.shields.io/badge/LeetCode-Solving_Hard-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![SOFTEC](https://img.shields.io/badge/SOFTEC-Participant-667eea?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 ![CALICO](https://img.shields.io/badge/CALICO-Participant-764ba2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
@@ -258,40 +259,6 @@ me = MuhammadAli()
 
 </div>
 
-> ⚙️ **Setup Note:** To enable the snake animation, create `.github/workflows/snake.yml` in this repo — see setup instructions below.
-
-<details>
-<summary>⚙️ <b>Snake Workflow Setup (Click to expand)</b></summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 ## 📈 Coding Journey
@@ -300,17 +267,20 @@ jobs:
 2021  ──► Joined GitHub, started with Python basics
 2022  ──► Matric (~90%) → KPSI Cadet School
 2024  ──► Intermediate (~90%) → Enrolled at PUCIT BSCS '28
-          Started Flutter mobile dev (Angela Yu course)
-          Built Turtle & Tkinter projects
-2025  ──► Built Crypto Tracker, ShortyLink Flask app
+          Started Learning Python (Angela Yu 100 days of Python course)
+          Learned libraries like tkinter, pandas, turtle
+          Learned about APIs
+          Built some projects using Turtle, Tkinter, APIs knowledge to get some experience
+2025  ──► Started Flutter mobile dev (Angela Yu Flutter)
+          Built Crypto Tracker, ShortyLink Flask app
           Deloitte & EA virtual internships
           Mastercard & Quantium job simulations
           HackerRank certifications (Python, REST API, C#)
           Net Traffic Monitor Platform
           Coding Arena — full-stack CP platform
 2026  ──► Active competitive programming (SOFTEC, CALICO)
-          Solving LeetCode Hard + Codeforces problems
-          Expanding into system design & advanced DSA
+          Solving LeetCode Medium/Hard + Codeforces problems
+          Expanding into system design, advanced DSA and cyber-security
 ```
 
 ---
@@ -319,8 +289,7 @@ jobs:
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*  
-> — John Johnson
+> *"Discipline will take you where motivation alone could never reach."*  
 
 </div>
 
